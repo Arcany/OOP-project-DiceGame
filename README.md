@@ -1,1 +1,1 @@
-"# OOP-projekt-2" 
+"OOP Project - Dice throwing game made in Java" 
